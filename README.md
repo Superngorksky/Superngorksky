@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superngorksky
 - 👀 I’m interested in Web Application, Mobile Security
-- 🌱 I’m currently learning Web Application Security
+- 🌱 I have 6 years of experience in Web Application security
 - 💞️ I’m looking to collaborate on security research
 - 📫 You can reach me @ melegrito.joel@gmail.com
 
